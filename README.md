@@ -1,0 +1,1 @@
+# Pattern_pro__Palindromic_Number_Pyramid
